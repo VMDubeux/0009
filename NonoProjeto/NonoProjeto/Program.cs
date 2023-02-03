@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace Exercicio
 {
     class NonoProjeto
@@ -29,6 +30,8 @@ namespace Exercicio
             {
                 Console.WriteLine("Você está no Quadrante 4!");
             }
+
+            Console.ReadKey();
         }
     }
 }
